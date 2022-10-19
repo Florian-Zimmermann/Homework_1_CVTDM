@@ -1,0 +1,246 @@
+---
+title: "**HW_exer1**"
+output: html_document 
+date: "`r format(Sys.time(), '%d %B - %Y')`"
+bibliography : References.bib
+
+---
+
+# **Introduction**
+
+## Part 1 : Eldrick
+### 1. Picture
+
+![A nice view to begin with!](https://www.ophtarive.ch/wp-content/uploads/2018/12/geneve-final-1500x630.jpg)
+
+### 2. Quote 
+
+"Quel dommage que vous ayez tenté de me duper, n'est-ce pas?" Hannibal Lecter 
+From @harris1988silence
+
+### 3. Emojis 
+`r emo::ji('dog_face')`
+`r emo::ji('tennis')`
+`r emo:: ji('sunrise_over_mountains')`
+
+
+### 4. Giphy 
+The big Giphy:
+
+![Trying to keep up in Introduction to Data Science](https://media1.giphy.com/media/eYilisUwipOEM/giphy.gif?cid=ecf05e477hmeea3jn2qbk5evcde26uiksp4xsli8hbewlr0k&rid=giphy.gif)
+
+
+The small one : 
+
+:<img src='https://media4.giphy.com/media/fItgT774J3nWw/giphy.gif?cid=ecf05e477hmeea3jn2qbk5evcde26uiksp4xsli8hbewlr0k&rid=giphy.gif' width='120' height='120' /> 
+
+When I eat around my dogs!
+
+### 5. Table 
+
++------------------+---------------+
+| Class            | Time         | 
++==================+===============+
+| Introduction     | Th 14-18h 
+| to data science  |              | 
++------------------+---------------+
+| International    |  F 10-12h
+| macroeconomics   |    16-18h     |    
++------------------+---------------+
+| Macroéconomie    | Tu 10-12h
+|                  | Th 8-10h     |    
++------------------+---------------+
+| Introduction à   | F 8-10h  
+| la Fiscalité     |               |
++------------------+---------------+
+
+### 6. Video
+The GOAT at work : 
+
+<iframe width="560" height="300" data-external="1" src="https://www.youtube.com/embed/pMJ0-1GGf5k " frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Part 2 : Florian
+### 1. Picture 
+![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width=25%}
+
+### 2. Quote 
+In page 27, the authors said " The central premise of the social order model is that society is the crucial regulator "  @sears2015good
+
+### 3. Emojis 
+My three emojis (I'm hungry `r emo::ji('yum')` ) : `r emo::ji('banana')` `r emo::ji('sushi')` `r emo::ji('chicken')`
+
+### 4. Giphy 
+The big Giphy: 
+
+![When I manage to perform an operation on R](https://media2.giphy.com/media/VJY3zeoK87CLBKnqqm/giphy.gif?cid=ecf05e4701i7euqo7wbj2ixlwkmy5jdfenglssa5nshtnaju&rid=giphy.gif) 
+
+The small one :  
+<img src='https://media0.giphy.com/media/j5bsZqX1KTKngMyu90/giphy.gif?cid=ecf05e47rcuyb3p148burrmben40pvbx7cmi4ka95wb7vp6r&rid=giphy.gif' width='120' height='120' />
+
+### 5. Table 
+
++------------------+---------------+
+| Class            | Time         | 
++==================+===============+
+| Introduction     | 4x45 mn
+| to data science  |               | 
++------------------+---------------+
+| International    | 2 hours       | 
+| management       |               |    
++------------------+---------------+
+| Intrpduction to  | 2x45 mn       | 
+| econometrics     |               |    
++------------------+---------------+
+| Introduction à   | 2x45 mn       | 
+| la fiscalité     |               |    
++------------------+---------------+
+| Comptabilité     |  4x45mn       | 
+| financière       |               |    
++------------------+---------------+
+| Organisation et  | 4x45 mn       | 
+| gestion des      |               |
+| opérations       |               |  
++------------------+---------------+
+| Contrôle de      | 4x45 mn       | 
+| gestion          |               |    
++------------------+---------------+
+
+### 6. Video
+The data scientist : 
+
+<iframe width="560" height="300" data-external="1" src="https://www.youtube.com/embed/i2jwZcWicSY" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Part 3 : Sébastien
+
+### 1. Picture
+
+![Me after four hours of Data Science](data:image/jpeg;base64,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)
+
+### 2. Quote 
+
+In page 49, the author say that "La propriété foncière a pour objet les immeubles (art. 655 al. 1) soumis au droit privé" @steinauer2020droits
+
+
+### 3. Emojis 
+Me on Monday : `r emo::ji('cold_sweat')`
+
+Me on Wednesday : `r emo::ji('smirking_face')`
+
+Me on Saturday : `r emo:: ji('grinning_face')`
+
+
+### 4. Giphy 
+The big Giphy:
+
+![What I think I'm doing in the data science class](https://i0.wp.com/www.spawnrider.net/wp-content/uploads/2013/05/code-gif-2011.gif?fit=250%2C188&ssl=1)
+
+
+The small one : 
+
+:<img src='https://data.photofunky.net/output/image/c/4/d/f/c4dfd3/photofunky.gif' width='120.02616526152' height='120.02616526152' /> />
+
+What I actually do during the data science course
+
+### 5. Table 
+
++------------------+---------------+
+| Class            | Time         | 
++==================+===============+
+| Introduction     | 4x45 mn
+| to data science  |               | 
++------------------+---------------+
+| International    | 2 hours       | 
+| management       |               |    
++------------------+---------------+
+| Contrôle de      | 4x45 mn       | 
+| gestion          |               |    
++------------------+---------------+
+| Business and     | 2x45mn        |
+| Human rights     |               |
++------------------+---------------+
+| Management de    | 2x45mn        |
+| l'innovation     |               |
++------------------+---------------+
+
+### 6. Video
+Why is this course important? : 
+
+<iframe width="560" height="300" data-external="1" src="https://www.youtube.com/embed/9hDnO_ykC7Y" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+******
+# **R Markdown Syntax**
+
+### 1. Chunk option with a missleading answer 
+
+```{r computeA}
+a = 64
+```
+```{r computeB, cache = TRUE}
+b = sqrt (a)
+```
+
+The **square root** of a = b =  `r (b)` (this result is obviously wrong because we had previously set a = 36 and then changed for a = 64. It was **not recalculated** because cache = TRUE for b. To have the right result, we should put cache = FALSE for b)
+
+### 2. Random sample from a uniform distribution (n=100)
+```{R, echo = FALSE}
+x = runif (100)
+```
+
+Simulation of 100 random samples from a Uniform distribution : 
+
+The **mean** is ```r round(mean(x), 4)``` 
+
+The **median** is ```r round(median(x), 4)```
+
+The **variance** is ```r round(var(x), 4)```
+
+• Are these results different from 1/2, 1/2 and 1/12 (their respective theoretical values)? Is this result surprising? Justify your answer
+
+**Answer** : The results do not correspond exactly to 0.5 for the mean, 0.5 for the median and 1/12 for the variance. This is due to the small size of our sample which is n=100. This lack of precision is not surprising. The more we increase the size of this sample, the closer we will get to these values.  
+
+
+### 3. Histogram of X
+```{R, echo=FALSE}
+hist(x, main = "Histogram of a random sample from a uniform distribution", ylab = "Frequency", xlab = "X")
+```
+
+### 4. Centered equation 
+
+$$
+\begin{align*}
+ \mathbb{E}\left [\mathrm{var}\left \{\mathbf{v}_{1}\left (\boldsymbol{\hat{\theta }},n \right )\mid \boldsymbol{\hat{\theta }} \right \} \right ] &= \mathrm{var} \left \{ \mathbf{v}_{1} \left ( \boldsymbol{{\theta}}_{0},n \right ) \right \} + \mathbb{E} \left [  \mathcal{O}_{p} \left \{ \left. \mathbf{D}_{1}(\boldsymbol{{\theta^{*} }},n)(\boldsymbol{\hat{\theta }}-\boldsymbol{{\theta}}_{0}),...,\mathbf{D}_{p} (\boldsymbol{{\theta^{*} }},n)(\boldsymbol{{\theta}} -\boldsymbol{{\theta}}_{0}) \right \} \right. \right ]  \\
+      &= \mathrm{var} \left \{ \mathbf{v}_{1} \left (\boldsymbol{{\theta}}_{0},n \right ) \right \} +  \mathcal{O}_{p}(n^{-2}).   
+\end{align*} $$
+
+
+### 5. In-line equation 
+
+$$ \boldsymbol{{A}} \equiv \left [ a_{i,j} \right ]_{i,j}= 1,...,p ^ {.}$$
+
+
+### 6. Text in blue 
+
+<span style="color: blue;">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu</span>
+
+### 7. "More info" button 
+
+<button data-toggle="collapse" data-target="#demo" class="collapsed" aria-expanded="false">
+More info - Plus d'informations</button><div id="demo" class="collapse in" aria-expanded="true" style=""><p>More information here - plus d'informations ici</p></div>
+
+### 8. Green box 
+
+<div class="alert alert-success" role="alert">Data Science 2021 :)</div>
+
+
+### 9. References 
+
+
+
+• Additional reference (not used in the citations but used for the construction of this document) : 
+
+Matthew Beckman, Stéphane Guerrier, Justin Lee, Roberto Molinari, Samuel Orso & Iegor Rudnytskyi (2020). *An Introduction to Statistical Programming Methods with R* [E-book]. Bookdown. https://smac-group.github.io/ds/
+
+• References used for citations : 
+
